@@ -3,7 +3,7 @@
 Axios play
 ---
 
-![image](https://github.com/Singh-csm/exploring-apis/assets/118621709/356a4733-cebf-4381-9e1e-181329bf5f5a)
+![image](https://github.com/Singh-csm/exploring-apis/assets/118621709/b039bf92-cd12-46f2-96df-0e9ae8b8f666)
 
 ---
 
