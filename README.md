@@ -3,7 +3,7 @@
 Axios play
 ---
 
-image.png
+![image](https://github.com/Singh-csm/exploring-apis/assets/118621709/356a4733-cebf-4381-9e1e-181329bf5f5a)
 
 ---
 
@@ -11,7 +11,7 @@ image.png
 
 - **HTML** 💀
 - **CSS** 🌈
-- **AXIOS** 🏎
+- **Axios** 🏎
 - **JavaScript** 🧠
 - **Vite** 🤷
 
